@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../risc_arty.gen/sources_1/ip/dmem_bram/dmem_bram_sim_netlist.vhdl" \
+
+# Do not sort compile order
+nosort

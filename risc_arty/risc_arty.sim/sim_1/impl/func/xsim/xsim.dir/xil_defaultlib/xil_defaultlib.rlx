@@ -1,0 +1,5 @@
+0.7
+2020.2
+Sep  5 2024
+15:23:16
+C:/Users/Samuel/risc_arty/risc_arty.sim/sim_1/impl/func/xsim/top_func_impl.vhd,1737076292,vhdl,,,,\enflopr__parameterized2\;\flopr__parameterized1\;adder;adder_18;alu;aludec;controller;datapath_struct_write_on_neg_edge;divider;dmem;dmem_bram;dmem_bram_blk_mem_gen_generic_cstr;dmem_bram_blk_mem_gen_prim_width;dmem_bram_blk_mem_gen_prim_wrapper_init;dmem_bram_blk_mem_gen_top;dmem_bram_blk_mem_gen_v8_4_8;dmem_bram_blk_mem_gen_v8_4_8_synth;enflopr;enflopr_19;enflopr_20;enflopr_21;flopr;font_rom;font_rom_12;font_rom_13;font_rom_14;font_rom_15;font_rom_16;font_rom_17;imem;imem_bram;imem_bram_blk_mem_gen_generic_cstr;imem_bram_blk_mem_gen_prim_width;imem_bram_blk_mem_gen_prim_wrapper_init;imem_bram_blk_mem_gen_top;imem_bram_blk_mem_gen_v8_4_8;imem_bram_blk_mem_gen_v8_4_8_synth;multiplier;pixel_on_text;pixel_on_text_0;pixel_on_text_1;pixel_on_text_10;pixel_on_text_11;pixel_on_text_2;pixel_on_text_3;pixel_on_text_4;pixel_on_text_5;pixel_on_text_6;pixel_on_text_7;pixel_on_text_8;pixel_on_text_9;regfile;remainder;riscvpipeline_struct_neg;top;vga_debug;walldtoe;walletom;wallftod;wallmtow,,,,,,,,

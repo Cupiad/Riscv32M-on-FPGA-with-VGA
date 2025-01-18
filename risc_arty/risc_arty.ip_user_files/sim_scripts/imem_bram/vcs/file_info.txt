@@ -1,0 +1,4 @@
+xpm_memory.sv,systemverilog,xpm,E:/Xinlix/Vivado/2024.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,
+xpm_VCOMP.vhd,vhdl,xpm,E:/Xinlix/Vivado/2024.1/data/ip/xpm/xpm_VCOMP.vhd,
+imem_bram_sim_netlist.vhdl,vhdl,xil_defaultlib,../../../../risc_arty.gen/sources_1/ip/imem_bram/imem_bram_sim_netlist.vhdl,
+glbl.v,Verilog,xil_defaultlib,glbl.v

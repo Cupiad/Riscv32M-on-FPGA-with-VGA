@@ -1,0 +1,1 @@
+imem_bram_sim_netlist.vhdl,vhdl,xil_defaultlib,../../../../risc_arty.gen/sources_1/ip/imem_bram/imem_bram_sim_netlist.vhdl,
